@@ -3,4 +3,4 @@
 
 Accepted at ICML 2022.
 
-## More details are coming soon.
+## Will be migrated to [https://github.com/facebookresearch/DepthShrinker](https://github.com/facebookresearch/DepthShrinker) soon.
